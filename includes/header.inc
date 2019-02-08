@@ -17,10 +17,10 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.php"><img src="img/logo.png"></a>
+      <a class="navbar-brand" href="index.php"><img class="logo" src="img/logo.png"></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
+      <ul class="nav navbar-nav ">
         <li class="active"><a href="index.php">Lenguajes de Marcas</a></li>
         <li><a href="java.php">Java</a></li>
         <li><a href="python.php">Python</a></li>
