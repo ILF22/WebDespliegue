@@ -24,6 +24,7 @@
         <li class="active"><a href="index.php">Lenguajes de Marcas</a></li>
         <li><a href="java.php">Java</a></li>
         <li><a href="python.php">Python</a></li>
+        <li><a href="comentario.php">Comentario</a></li>
       </ul>
     </div>
   </div>
